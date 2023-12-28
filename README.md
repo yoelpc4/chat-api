@@ -20,6 +20,12 @@ yarn
 yarn dev
 ```
 
+alternatively you could serve via [container](https://github.com/yoelpc4/chat-container) and it will be available on `api.chat.test`
+
+```shell
+make start
+```
+
 - Build for production
 
 ```shell
